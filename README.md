@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @janek-are
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning SQL and BASH. Want to learn more Python and JS. 
+- 💞️ I’m looking to collaborate on something cool. 
+- 📫 How to reach me atakujkota@gmail.com
